@@ -1,0 +1,17 @@
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.csproj.AssemblyReference.cache
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.AssemblyInfoInputs.cache
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.AssemblyInfo.cs
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.csproj.CoreCompileInputs.cache
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\CloudEmployee_Exam.exe
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\CloudEmployee_Exam.deps.json
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\CloudEmployee_Exam.runtimeconfig.json
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\CloudEmployee_Exam.dll
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\CloudEmployee_Exam.pdb
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.csproj.CopyComplete
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.dll
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\refint\CloudEmployee_Exam.dll
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.pdb
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\CloudEmployee_Exam.genruntimeconfig.cache
+C:\Users\AlvinPogi\source\repos\Devpartners Exam\CloudEmployee_Exam\CloudEmployee_Exam\obj\Debug\net7.0\ref\CloudEmployee_Exam.dll

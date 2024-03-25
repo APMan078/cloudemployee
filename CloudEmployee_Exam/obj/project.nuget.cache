@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izXJd0vR9Eh1CI/68TaY2F7J3/d0PBoFRY0bkcaKKMhQsCE0cymsvHjZCGjscODIN+v9ESMLNw25pJm4Dn3oyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlvinPogi\\Source\\Repos\\APMan078\\cloudemployee\\CloudEmployee_Exam\\CloudEmployee_Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlvinPogi\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
